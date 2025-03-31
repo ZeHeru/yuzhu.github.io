@@ -14,4 +14,3 @@ I am currently conducting research at the Collaborative Innovation Center of Che
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:23210220065@m.fudan.edu.cn) / [Github](https://github.com/ZeHeru) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
-————————————————
