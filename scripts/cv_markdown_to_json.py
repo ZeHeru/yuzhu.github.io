@@ -54,7 +54,7 @@ def parse_markdown_cv(md_file):
 
 def parse_config(config_file):
     """Parse the Jekyll _config.yml file for additional information."""
-    if not os.path.exists(config_file):
+    if not config_file or not os.path.exists(config_file):
         return {}
     
     with open(config_file, 'r', encoding='utf-8') as file:
@@ -74,7 +74,7 @@ def extract_author_info(config):
             "address": "",
             "postalCode": "",
             "city": "",
-            "countryCode": "US",
+            "countryCode": "CN",
             "region": ""
         },
         "profiles": []
@@ -378,7 +378,7 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
     # Create the JSON structure
     cv_json = {
         "basics": author_info,
-        "work": parse_work_experience(sections.get('Work experience', '')),
+        "work": parse_work_experience(sections.get('Experience', sections.get('Work experience', ''))),
         "education": parse_education(sections.get('Education', '')),
         "skills": parse_skills(sections.get('Skills', '')),
         "languages": [],

@@ -13,6 +13,4 @@ My main graduate project asks whether molecular orbitals are observable from STM
 
 From July 2024 to June 2025, I was an AI for Science intern at Microsoft Research in Shanghai, contributing to MatterSim and materials modeling benchmarks. I worked with high-throughput materials datasets, evaluated universal machine learning force fields, and built scalable computational pipelines on Azure Cloud.
 
-I have received verbal admission to the Ph.D. program at the California Institute of Technology for Fall 2026, advised by Prof. William A. Goddard III.
-
-[Email](mailto:23210220065@m.fudan.edu.cn) / [GitHub](https://github.com/ZeHeru) / [Google Scholar](https://scholar.google.com/) / [CV PDF]({{ site.url }}/files/cv.pdf) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:23210220065@m.fudan.edu.cn) / [GitHub](https://github.com/ZeHeru) / [Google Scholar](https://scholar.google.com/citations?user=GtyV_YsAAAAJ&hl=en) / [CV PDF]({{ site.url }}/files/cv.pdf) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)

@@ -10,7 +10,7 @@
       "address": "",
       "postalCode": "",
       "city": "Shanghai",
-      "countryCode": "China",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
@@ -22,7 +22,7 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/"
+        "url": "https://scholar.google.com/citations?user=GtyV_YsAAAAJ&hl=en"
       }
     ]
   },

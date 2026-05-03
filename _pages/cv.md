@@ -16,7 +16,7 @@ Contact
 * Yu Zhu
 * Email: [23210220065@m.fudan.edu.cn](mailto:23210220065@m.fudan.edu.cn)
 * GitHub: [ZeHeru](https://github.com/ZeHeru)
-* Google Scholar: [Google Scholar](https://scholar.google.com/)
+* Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=GtyV_YsAAAAJ&hl=en)
 * Location: Shanghai, China
 
 Education
@@ -28,7 +28,6 @@ Education
   * GPA: 3.8/4.0 (92.1/100)
   * Supervisor: Prof. Jianlin Yao and Assoc. Prof. Minmin Xu
   * Research interests: surface-enhanced Raman spectroscopy and fingerprint imaging
-* Received verbal admission to the Ph.D. program at the California Institute of Technology for Fall 2026, advised by Prof. William A. Goddard III.
 
 Experience
 ======
