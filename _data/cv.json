@@ -1,152 +1,198 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Yu Zhu",
+    "label": "M.Sc. student, Department of Chemistry, Fudan University",
+    "email": "23210220065@m.fudan.edu.cn",
+    "phone": "+86-13895127909",
+    "website": "https://zeheru.github.io/yuzhu.github.io",
+    "summary": "M.Sc. student in Chemistry at Fudan University working on AI for Science, machine learning force fields, STM image restoration, and open-set recognition.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Shanghai",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
       {
+        "network": "GitHub",
+        "username": "ZeHeru",
+        "url": "https://github.com/ZeHeru"
+      },
+      {
         "network": "Google Scholar",
         "username": "",
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Microsoft Research",
+      "position": "AI for Science Intern",
+      "website": "https://www.microsoft.com/en-us/research/articles/mattersim/",
+      "startDate": "07 2024",
+      "endDate": "06 2025",
+      "summary": "Contributed to MatterSim and universal machine learning force field benchmarking in Shanghai, China.",
+      "highlights": [
+        "Developed generalized benchmarks to inform model architecture design and training data generation.",
+        "Ran inference on models up to 1B parameters and managed high-throughput datasets with up to 200M entries.",
+        "Built parallel computational pipelines on Azure Cloud for up to 10K concurrent tasks."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Fudan University, Shanghai, China",
+      "area": "M.Sc., Department of Chemistry",
+      "studyType": "M.Sc.",
+      "startDate": "09 2023",
+      "endDate": "09 2023 - 06 2026",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Supervisor: Prof. Xin Xu and Young Researcher Sai Duan",
+        "Research interests: machine learning force fields, open-set recognition, scanning tunneling microscopy"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Soochow University, Suzhou, China",
+      "area": "B.Sc., College of Chemistry, Chemical Engineering and Materials Science",
+      "studyType": "B.Sc.",
+      "startDate": "09 2019",
+      "endDate": "09 2019 - 06 2023",
+      "gpa": "3.8/4.0 (92.1/100)",
+      "courses": [
+        "Supervisor: Prof. Jianlin Yao and Assoc. Prof. Minmin Xu",
+        "Research interests: surface-enhanced Raman spectroscopy and fingerprint imaging"
+      ]
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Scientific Computing",
+      "keywords": [
+        "Python",
+        "VASP",
+        "atomate2",
+        "joblib",
+        "phonopy",
+        "phono3py"
+      ]
+    },
+    {
+      "name": "Machine Learning Models",
+      "keywords": [
+        "U-Net",
+        "DAE",
+        "Mask2Former",
+        "ESEN",
+        "MACE",
+        "ORB",
+        "Swin Transformer",
+        "HAN-OSFGR"
+      ]
+    },
+    {
+      "name": "Visualization",
+      "keywords": [
+        "t-SNE",
+        "Grad-CAM",
+        "Origin"
+      ]
+    },
+    {
+      "name": "Scientific Methods",
+      "keywords": [
+        "STM simulation",
+        "Bardeen's approximation",
+        "Tersoff-Hamann theory",
+        "Chen's derivative rule",
+        "SERS mapping"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
-  "references": [],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Machine learning force fields",
+        "Open-set recognition",
+        "Scanning tunneling microscopy",
+        "AI for Science"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Sai Duan",
+      "reference": "Young Researcher, Department of Chemistry, Fudan University; duansai@fudan.edu.cn"
+    },
+    {
+      "name": "Xin Xu",
+      "reference": "Professor, Department of Chemistry, Fudan University; xxchem@fudan.edu.cn"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Reconstructing Pristine Molecular Orbitals from Scanning Tunneling Microscopy Images via Artificial Intelligence Approaches",
+      "publisher": "J. Am. Chem. Soc. Au",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "Yu Zhu, R. Xue, H. Ren, Y. Chen, W. Yan, B. Wu, S. Duan, H. Zhang, L. Chi, and X. Xu."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Probing the Limit of Heat Transfer in Inorganic Crystals with Deep Learning",
+      "publisher": "arXiv",
+      "releaseDate": "2025-03-15",
+      "website": "https://doi.org/10.48550/arXiv.2503.11568",
+      "summary": "Co-authored work on deep learning for heat transfer in inorganic crystals."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "MatterSim: A Deep Learning Atomistic Model Across Elements, Temperatures and Pressures",
+      "publisher": "arXiv",
+      "releaseDate": "2024-05-07",
+      "website": "https://doi.org/10.48550/arXiv.2405.04967",
+      "summary": "Co-authored work on a generalizable deep learning atomistic model."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "MPBR: Multimodal Progressive Bidirectional Reasoning for Open-Set Fine-Grained Recognition",
+      "publisher": "International Conference on Computer Vision",
+      "releaseDate": "2025-06-01",
+      "website": "",
+      "summary": "Co-authored work on suppressing semantic drift in open-set fine-grained recognition."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "Reconstruct Molecular Orbitals from STM Images via Artificial Intelligence Approaches",
+      "category": "research",
+      "date": "2024-01-01",
+      "url": "https://github.com/ZeHeru/STM_net/tree/main",
+      "description": "Physics-driven STM image restoration with STM-Net."
+    },
+    {
+      "name": "MatterSim: A Deep Learning Atomistic Model",
+      "category": "research",
+      "date": "2024-07-01",
+      "url": "https://github.com/microsoft/mattersim",
+      "description": "Universal machine learning force field benchmarking and high-throughput materials workflows."
+    },
+    {
+      "name": "MPBR: Multimodal Progressive Bidirectional Reasoning for OSFGR",
+      "category": "research",
+      "date": "2025-01-01",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Open-set fine-grained recognition with progressive multimodal reasoning."
+    },
+    {
+      "name": "SERS Imaging on Flexible Substrates for Fingerprint Identification Research",
+      "category": "research",
+      "date": "2021-04-01",
+      "url": "",
+      "description": "SERS-based chemical imaging for latent and live fingerprint identification."
     }
   ]
 }

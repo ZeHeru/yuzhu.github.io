@@ -1,18 +1,9 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Yu Zhu:
+  name        : "Yu Zhu"
+  uri         : "https://zeheru.github.io/yuzhu.github.io"
+  email       : "23210220065@m.fudan.edu.cn"
+  bio         : "M.Sc. student in Chemistry at Fudan University working on AI for Science, machine learning force fields, STM image restoration, and open-set recognition."
+  avatar      : "profile.jpg"
+  github      : "ZeHeru"
