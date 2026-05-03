@@ -16,6 +16,7 @@ Contact
 * Yu Zhu
 * Email: [23210220065@m.fudan.edu.cn](mailto:23210220065@m.fudan.edu.cn)
 * GitHub: [ZeHeru](https://github.com/ZeHeru)
+* Google Scholar: [Google Scholar](https://scholar.google.com/)
 * Location: Shanghai, China
 
 Education
@@ -62,19 +63,8 @@ Projects
 
 Publications
 ======
-1. **Yu Zhu**, R. Xue, H. Ren, Y. Chen, W. Yan, B. Wu, S. Duan, H. Zhang, L. Chi, and X. Xu. "Reconstructing Pristine Molecular Orbitals from Scanning Tunneling Microscopy Images via Artificial Intelligence Approaches." *J. Am. Chem. Soc. Au*, 2025.
+1. **Yu Zhu**, R. Xue, H. Ren, Y. Chen, W. Yan, B. Wu, S. Duan, H. Zhang, L. Chi, and X. Xu. "[Reconstructing Pristine Molecular Orbitals from Scanning Tunneling Microscope Images via Artificial Intelligence Approaches](https://pubs.acs.org/doi/10.1021/jacsau.5c00310)." *J. Am. Chem. Soc. Au*, 2025.
 2. J. Li, Z. Chen, Q. Wang, H. Yang, Z. Lu, G. Li, S. Chen, **Yu Zhu**, X. Liu, J. Tan, M. Tang, Y. Zhou, C. Zeni, A. Fowler, D. Zügner, R. Pinsler, M. Horton, T. Xie, T.-Y. Liu, H. Liu, T. Qin, B. Lv, D. Donadio, and H. Hao. "[Probing the Limit of Heat Transfer in Inorganic Crystals with Deep Learning](https://doi.org/10.48550/arXiv.2503.11568)." 2025.
 3. H. Yang, X. Liu, C. Hu, Y. Zhou, Y. Shi, C. Liu, J. Li, G. Li, Q. Wang, **Yu Zhu**, Z. Chen, S. Chen, C. Zeni, M. Horton, R. Pinsler, A. Fowler, D. Zügner, T. Xie, J. Smith, L. Sun, Y. Chen, Y. Bai, L. Kong, H. Hao, and Z. Lu. "[MatterSim: A Deep Learning Atomistic Model Across Elements, Temperatures and Pressures](https://doi.org/10.48550/arXiv.2405.04967)." 2024.
-4. J. Tan, P. Jing, **Yu Zhu**, and Y. Liu. "MPBR: Multimodal Progressive Bidirectional Reasoning for Open-Set Fine-Grained Recognition." *International Conference on Computer Vision*, 2025.
-
-Honors and Awards
-======
-* China National Scholarship, top 0.2%, 12 2022
-* China National Scholarship, top 0.2%, 12 2025
-* Chinese Mathematics Competition for College Students, First Prize, top 5.3%, 12 2020
-* China International College Students' "Internet+" Innovation and Entrepreneurship Competition, Silver Award, top 0.02%, 11 2021
-
-References
-======
-* **Sai Duan**, Young Researcher, Department of Chemistry, Fudan University, [duansai@fudan.edu.cn](mailto:duansai@fudan.edu.cn)
-* **Xin Xu**, Professor, Department of Chemistry, Fudan University, [xxchem@fudan.edu.cn](mailto:xxchem@fudan.edu.cn)
+4. J. Tan, P. Jing, **Yu Zhu**, and Y. Liu. "[MPBR: Multimodal Progressive Bidirectional Reasoning for Open-Set Fine-Grained Recognition](https://openaccess.thecvf.com/content/ICCV2025/html/Tan_MPBR_Multimodal_Progressive_Bidirectional_Reasoning_for_Open-Set_Fine-Grained_Recognition_ICCV_2025_paper.html)." *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, 2025, pp. 1282-1291.
+5. M. Wu, J. Tan, **Yu Zhu**, and J. Ren. "[KappaFormer: Physics-aware Transformer for lattice thermal conductivity via cross-domain transfer learning](https://arxiv.org/abs/2604.03547)." *arXiv*, 2026.

@@ -15,4 +15,4 @@ From July 2024 to June 2025, I was an AI for Science intern at Microsoft Researc
 
 I have received verbal admission to the Ph.D. program at the California Institute of Technology for Fall 2026, advised by Prof. William A. Goddard III.
 
-[Email](mailto:23210220065@m.fudan.edu.cn) / [GitHub](https://github.com/ZeHeru) / [CV PDF]({{ site.url }}/files/cv.pdf) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:23210220065@m.fudan.edu.cn) / [GitHub](https://github.com/ZeHeru) / [Google Scholar](https://scholar.google.com/) / [CV PDF]({{ site.url }}/files/cv.pdf) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)

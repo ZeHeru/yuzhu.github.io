@@ -22,7 +22,7 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/"
       }
     ]
   },
@@ -123,23 +123,14 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Sai Duan",
-      "reference": "Young Researcher, Department of Chemistry, Fudan University; duansai@fudan.edu.cn"
-    },
-    {
-      "name": "Xin Xu",
-      "reference": "Professor, Department of Chemistry, Fudan University; xxchem@fudan.edu.cn"
-    }
-  ],
+  "references": [],
   "publications": [
     {
-      "name": "Reconstructing Pristine Molecular Orbitals from Scanning Tunneling Microscopy Images via Artificial Intelligence Approaches",
+      "name": "Reconstructing Pristine Molecular Orbitals from Scanning Tunneling Microscope Images via Artificial Intelligence Approaches",
       "publisher": "J. Am. Chem. Soc. Au",
       "releaseDate": "2025-01-01",
-      "website": "",
-      "summary": "Yu Zhu, R. Xue, H. Ren, Y. Chen, W. Yan, B. Wu, S. Duan, H. Zhang, L. Chi, and X. Xu."
+      "website": "https://pubs.acs.org/doi/10.1021/jacsau.5c00310",
+      "summary": "Yu Zhu, R. Xue, H. Ren, Y. Chen, W. Yan, B. Wu, S. Duan, H. Zhang, L. Chi, and X. Xu. JACS Au 5(7), 3163-3170."
     },
     {
       "name": "Probing the Limit of Heat Transfer in Inorganic Crystals with Deep Learning",
@@ -157,10 +148,17 @@
     },
     {
       "name": "MPBR: Multimodal Progressive Bidirectional Reasoning for Open-Set Fine-Grained Recognition",
-      "publisher": "International Conference on Computer Vision",
-      "releaseDate": "2025-06-01",
-      "website": "",
-      "summary": "Co-authored work on suppressing semantic drift in open-set fine-grained recognition."
+      "publisher": "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)",
+      "releaseDate": "2025-10-01",
+      "website": "https://openaccess.thecvf.com/content/ICCV2025/html/Tan_MPBR_Multimodal_Progressive_Bidirectional_Reasoning_for_Open-Set_Fine-Grained_Recognition_ICCV_2025_paper.html",
+      "summary": "Junfu Tan, Peiguang Jing, Yu Zhu, and Yu Liu. ICCV 2025, pp. 1282-1291."
+    },
+    {
+      "name": "KappaFormer: Physics-aware Transformer for lattice thermal conductivity via cross-domain transfer learning",
+      "publisher": "arXiv",
+      "releaseDate": "2026-04-04",
+      "website": "https://arxiv.org/abs/2604.03547",
+      "summary": "Mengfan Wu, Junfu Tan, Yu Zhu, and Jie Ren. arXiv:2604.03547."
     }
   ],
   "presentations": [],
