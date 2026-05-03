@@ -1,0 +1,64 @@
+/* ==========================================================================
+   MODERN UI ENHANCEMENTS
+   ========================================================================== */
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Body background with subtle gradient */
+body {
+  background: linear-gradient(135deg, #FFFFFF 0%, #F8FAFC 100%);
+  min-height: 100vh;
+}
+
+/* Enhanced author bio section */
+.author__bio {
+  font-size: 0.9em;
+  line-height: 1.6;
+  color: var(--global-text-color-light);
+}
+
+/* Modern button styles */
+.btn {
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-weight: 600;
+  transition: $global-transition;
+  box-shadow: $box-shadow;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: $box-shadow-lg;
+  }
+}
+
+/* Enhanced code blocks */
+code {
+  background-color: var(--global-code-background-color);
+  border-radius: 4px;
+  padding: 2px 6px;
+  font-size: 0.9em;
+}
+
+pre {
+  border-radius: 8px;
+  box-shadow: $box-shadow;
+}
+
+/* Page title enhancement */
+.page__title {
+  background: linear-gradient(135deg, var(--global-link-color), var(--global-accent-color));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 800;
+}
+
+/* Author name styling */
+.author__name {
+  font-weight: 700;
+  font-size: 1.3em;
+  color: var(--global-text-color);
+}

@@ -96,10 +96,17 @@
   img {
     max-width: 175px;
     border-radius: 50%;
+    transition: $global-transition;
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid var(--global-border-color);
+      border: 3px solid var(--global-border-color);
+      box-shadow: $box-shadow-lg;
+    }
+
+    &:hover {
+      transform: scale(1.05);
+      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
     }
   }
 }
@@ -250,15 +257,18 @@
   a {
     display: block;
     margin-bottom: 5px;
-    padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding: 8px 12px;
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+    border-radius: 8px;
+    transition: $global-transition;
 
     &:hover {
-      text-decoration: underline;
+      background-color: var(--global-bg-secondary);
+      color: var(--global-link-color);
+      transform: translateX(4px);
+      text-decoration: none;
     }
   }
 }
